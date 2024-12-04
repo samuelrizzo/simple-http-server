@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/server/.vs
+/server/server/x64
+/server/x64
